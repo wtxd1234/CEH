@@ -1,4 +1,5 @@
 # CEH
+## [FINAL EXAM❗❗❗](finalExam.md)
 #### [Module 1: Introduction to Ethical Hacking](module1.md)
 #### [Module 2: Footprinting and Reconnaissance](module2.md)
 #### [Module 3: Scanning Networks](module3.md)
